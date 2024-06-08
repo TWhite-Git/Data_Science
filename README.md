@@ -10,9 +10,12 @@
 
 ---
 ### Projects In This Section
-- **Seattle Housing Trends:** Alteryx, Tableau, PPT, [Seattle_Housing_Tableau](https://public.tableau.com/app/profile/thomas.white7591/viz/Seattle_Housing_Trends/Dashboard1?publish=yes)
-- **Wake County, NC Property Ownership:** API, Alteryx, Power Query / DAX, Power BI, PPT, [Wake_County_NC_PowerBI](https://app.powerbi.com/groups/me/reports/cd917d11-a06d-48d9-8a7a-5ca0a435cbed/add663d01077880836a3?experience=power-bi)
-- **Soccer Star Career Analysis:** Python, PPT
+- **Seattle Housing Trends:** [Seattle_Housing_Tableau](https://public.tableau.com/app/profile/thomas.white7591/viz/Seattle_Housing_Trends/Dashboard1?publish=yes)
+  - **Tools:** Alteryx, Tableau, PPT
+- **Wake County, NC Property Ownership:** [Wake_County_NC_PowerBI](https://app.powerbi.com/groups/me/reports/cd917d11-a06d-48d9-8a7a-5ca0a435cbed/add663d01077880836a3?experience=power-bi)
+  - **Tools:** API, ArcGIS, Alteryx, Power Query / DAX, Power BI, PPT
+- **Soccer Star Career Analysis:**
+  - **Tools:** Python (Pandas, Numpy, Matplotlib), PPT
 
 - ---
 ### About Me
@@ -21,17 +24,22 @@
 
 ### Skills
 
-- **Extrat, Transform, Load:** Database Manageemnt, SQL, Alteryx, PowerQuery / DAX, Tableua Prep Builder
+- **Extract, Transform, Load:** Database Manageemnt, SQL, Alteryx, PowerQuery / DAX, Tableua Prep Builder
 - **Data Analysis:** Power BI, Tableau, SAS, Palantir, Excel
 - **Programming:** Python, HTML, CSS, Markdown
 - **Project Management:** PMP Certified, Teams, SharePoint, Jira, Confluence
-- **Modeling:** System and Process Engineering, Visio, Lucid, Draw.io
+- **Business Modeling:** System and Process Engineering, Visio, Lucid, Draw.io, Excel
 - **Accounting Software:** Sage 50, QuickBooks Online, ProConnect
+- **Other:** ArcGIS, Postman, Canva
 
 ### Education
 
 - **Master of Accounting in Financial Analysis and Reporting Candidate**, University of North Carolina, Kenan-Flagler Business School (Dec 2024)
+  - **Relevant Coursework:** Python for Data Analytics, Data Analystice for Finance, Business, Modeling, Advanced Spreadsheet Modeling for Business,Corporate Finance, Accounting for M&A, Federal Tax, Corporate Tax.
+- **Post-Bac in Pre-Medical Science:**, University of North Carolina at Wilmington (Dec 2022)
+  - **Relevant Coursework:** Management of Information Systems, Statistics
 - **Bachelor of Arts in Political Science**, University of Northern Colorado (May 2011)
+  - **Relevant Coursework:** Nature of Legal Reasoning, Legal Research and Writing, Technical Writing, Social Psychology, Mass Communication Law, Persuasion, The Art of Persuasion
 
 ---
 
