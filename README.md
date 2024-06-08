@@ -10,9 +10,13 @@
 
 ---
 ### Projects In This Section
-- **Seattle Housing Trends:** [Seattle_Housing_Tableau](https://public.tableau.com/app/profile/thomas.white7591/viz/Seattle_Housing_Trends/Dashboard1?publish=yes)
+- **Seattle Housing Trends:**
+  - **Project Walkthrough:**
+  - **Product Dashboard:** [Seattle_Housing_Tableau](https://public.tableau.com/app/profile/thomas.white7591/viz/Seattle_Housing_Trends/Dashboard1?publish=yes)
   - **Tools:** Alteryx, Tableau, PPT
-- **Wake County, NC Property Ownership:** [Wake_County_NC_PowerBI](https://app.powerbi.com/groups/me/reports/cd917d11-a06d-48d9-8a7a-5ca0a435cbed/add663d01077880836a3?experience=power-bi)
+- **Wake County, NC Property Ownership:**
+  - **Project Walkthrough:**
+  - **Product Dashboard:** [Wake_County_NC_PowerBI](https://app.powerbi.com/groups/me/reports/cd917d11-a06d-48d9-8a7a-5ca0a435cbed/add663d01077880836a3?experience=power-bi)
   - **Tools:** API, ArcGIS, Alteryx, Power Query / DAX, Power BI, PPT
 - **Soccer Star Career Analysis:**
   - **Tools:** Python (Pandas, Numpy, Matplotlib), PPT
